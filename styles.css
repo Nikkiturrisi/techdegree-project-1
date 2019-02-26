@@ -34,7 +34,7 @@ a:hover {
 .nav {
   display: flex;
   justify-content: space-around;
-  font-weight: 700;
+  font-weight: 500;
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: white;
 }
 
 header {
@@ -85,8 +85,8 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: rgba(0,0,102,0.4);
+  color: white;
 }
 .card {
   margin: 30px;
