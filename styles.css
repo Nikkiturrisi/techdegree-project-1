@@ -80,7 +80,7 @@ header .profile-image:hover {
   background-color: #efefef;
   color: black;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 1.5px;
   display: table;
   margin: 10px auto;
 }
@@ -108,7 +108,7 @@ ul.skills {
 }
 
 .skills li {
-  border-radius: 6px;
+  border-radius: 1px;
   display: inline-block;
   background: #699;
   color: white;
@@ -197,6 +197,10 @@ a.social:hover {
     line-height: 1.6em;
   }
 
+  h2 {
+    text-align:center;
+  }
+  
   footer {
     font-size: 1.3em;
     max-width: 1200px;
