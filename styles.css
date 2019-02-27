@@ -61,6 +61,9 @@ a:hover {
 header {
   text-align: center;
   background: url('images/background-img.jpg') no-repeat;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
