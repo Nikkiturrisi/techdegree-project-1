@@ -85,7 +85,7 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: rgba(0,0,102,0.6);
+  background-color: rgba(204,153,0,0.6);
   color: white;
 }
 .card {
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #699;
+  border-color: #c90;
 }
 
 ul.skills {
@@ -117,7 +117,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: #006;
+  background: #960;
 }
 
 footer {
@@ -199,6 +199,7 @@ a.social:hover {
 
   h2 {
     text-align:center;
+    text-decoration:underline;
   }
 
   footer {
