@@ -64,6 +64,8 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  border-bottom: 25px solid rgba(0,0,0,0.5);
+  margin-bottom: 25px;
 }
 header {
   line-height: 1.5;
@@ -77,7 +79,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1) rotate(5deg);
 }
 .tag {
   background-color: rgba(255,255,255,0.8);
