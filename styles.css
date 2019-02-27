@@ -85,7 +85,7 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: rgba(0,0,102,0.4);
+  background-color: rgba(0,0,102,0.6);
   color: white;
 }
 .card {
@@ -200,7 +200,7 @@ a.social:hover {
   h2 {
     text-align:center;
   }
-  
+
   footer {
     font-size: 1.3em;
     max-width: 1200px;
