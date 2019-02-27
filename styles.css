@@ -60,7 +60,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/background-img.jpg') no-repeat 75%;
+  background: url('images/background-img.jpg') no-repeat;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -74,7 +74,7 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 60%;
   border: 3px solid white;
   transition: all .5s;
 }
@@ -82,7 +82,7 @@ header .profile-image:hover {
   transform: scale(1) rotate(5deg);
 }
 .tag {
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255,255,255,0.9);
   color: black;
   padding: 10px;
   border-radius: 1.5px;
@@ -90,7 +90,7 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: rgba(204,153,0,0.6);
+  background-color: rgba(204,153,0,0.9);
   color: white;
 }
 .card {
